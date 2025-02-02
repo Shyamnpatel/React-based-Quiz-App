@@ -1,0 +1,22 @@
+.start-quiz-button {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .start-quiz-button:hover {
+    background-color: #0056b3; 
+    color: #fff;
+  }
+  
+  .start-quiz-button:active {
+    background-color: #fff; 
+    color: #007bff; 
+  }
+  
