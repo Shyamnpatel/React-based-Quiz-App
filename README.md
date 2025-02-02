@@ -37,7 +37,8 @@ git clone
 cd 
 3. Install dependencies:
 npm install
-4. Start the development server:
+📌 Note: The node_modules folder is not included in the repository. Running npm install will download all required dependencies.
+5. Start the development server:
 npm run dev
 6. Open your browser and visit:
 http://localhost:5173
